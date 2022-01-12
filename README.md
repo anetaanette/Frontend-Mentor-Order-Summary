@@ -4,11 +4,11 @@
 
 # Desktop
 
-(https://github.com/anetaanette/Frontend-Mentor-Order-Summary/blob/main/images/desktop-screenshot.png?raw=true)
+!(https://github.com/anetaanette/Frontend-Mentor-Order-Summary/blob/main/images/desktop-screenshot.png?raw=true)
 
 # Mobile
 
-(https://github.com/anetaanette/Frontend-Mentor-Order-Summary/blob/main/images/mobile-screenshot.png?raw=true)
+!(https://github.com/anetaanette/Frontend-Mentor-Order-Summary/blob/main/images/mobile-screenshot.png?raw=true)
 
 ### Links
 
