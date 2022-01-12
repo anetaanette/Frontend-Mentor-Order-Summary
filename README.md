@@ -4,11 +4,11 @@
 
 # Desktop
 
-url(/images/desktop-screenshot)
+(https://github.com/anetaanette/Frontend-Mentor-Order-Summary/blob/main/images/desktop-screenshot.png?raw=true)
 
 # Mobile
 
-url(/images/mobile-screenshot)
+(https://github.com/anetaanette/Frontend-Mentor-Order-Summary/blob/main/images/mobile-screenshot.png?raw=true)
 
 ### Links
 
