@@ -79,6 +79,9 @@ body {
     .change {
       color: var(--bright-blue);
     }
+    .change:hover {
+      cursor: pointer;
+    }
   }
   button {
     height: 40px;
@@ -89,6 +92,10 @@ body {
     color: white;
     font-weight: bold;
     padding: 10px;
+    font-size: 15px;
+  }
+  button:hover {
+    cursor: pointer;
   }
   .cancel {
     > p {
@@ -97,6 +104,9 @@ body {
       opacity: 0.5;
       font-weight: bold;
     }
+  }
+  .cancel:hover {
+    cursor: pointer;
   }
 }
 
